@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agntwrk.github.io/phone-line-site/sitemap.xml
